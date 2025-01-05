@@ -1,0 +1,77 @@
+.wrapper{
+	border:10px solid #7A007C;
+	background-color: #F9D9FE;
+	height:600px;
+	width:60%;
+	margin: 0 auto;
+	
+}
+.wrapper h2{
+Color: #7A007C;
+text-align: center;
+margin:20px;
+
+
+}
+.first_name, .last_name, .email, .password,.comments{
+	width: 60%;
+    height: 30px;
+    padding: 5px;
+    font-size: 15px;
+      border-radius: 10px;
+      border-color:#7A007C;
+}
+.comments{
+	
+}
+
+
+label{
+	padding: 20px;
+    font-size: 20px;
+    color: #7A007C;
+    margin:10px;
+}
+form{
+	margin:10px;
+}
+	
+
+span{
+	font-size: 20px;
+    color: #7A007C;
+    margin: 5px;
+}
+.comments{
+height: 50px;
+}
+.btn{
+	padding: 10px 30px;
+	margin:20px;
+	background-color:#F5BAF2;
+	 border-radius: 10px;
+	Color: #7A007C;
+}
+.table_test{
+	border:10px solid #7A007C;
+	background-color: #F9D9FE;
+	height:600px;
+	width:60%;
+	margin: 0 auto;
+	margin-bottom: 50px ;
+}
+.button {
+    border: 2px solid red;
+    border-color: #7A007C;
+     border-radius: 25px;
+}
+
+table, th, td {
+  border: 1px solid #7A007C;
+}
+table{
+	
+	 width: 80%;
+	 margin: 0 auto;
+	 margin-top:50px;
+}
